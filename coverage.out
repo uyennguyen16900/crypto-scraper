@@ -1,0 +1,13 @@
+mode: set
+github.com/uyennguyen16900/crypto-scraper/scraper.go:28.55,30.29 2 1
+github.com/uyennguyen16900/crypto-scraper/scraper.go:41.2,41.12 1 1
+github.com/uyennguyen16900/crypto-scraper/scraper.go:30.29,37.25 6 1
+github.com/uyennguyen16900/crypto-scraper/scraper.go:37.25,39.4 1 1
+github.com/uyennguyen16900/crypto-scraper/scraper.go:45.30,51.2 4 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:53.13,56.16 3 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:60.2,75.47 7 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:102.2,104.69 2 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:56.16,59.3 2 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:75.47,76.54 1 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:95.3,98.48 3 0
+github.com/uyennguyen16900/crypto-scraper/scraper.go:76.54,94.4 3 0

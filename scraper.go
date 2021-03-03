@@ -8,6 +8,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
 
@@ -27,18 +28,33 @@ type Crypto struct {
 // GetCoins return a string slice of coins that have price under given price
 func GetCoins(price float64, coins []Crypto) []string {
 	var res []string
-	for _, coin := range coins {
-		fmt.Println("price", coin.Price[1:])
-		re := regexp.MustCompile(`[0-9.]+`)
-		priceArr := re.FindAllString(coin.Price[1:], -1)
-		coinPriceStr := strings.Join(priceArr[:], "")
-		coinPrice, _ := strconv.ParseFloat(coinPriceStr, 64)
 
+	for _, coin := range coins {
+		coinPrice := ConvertStringPriceToFloat(coin.Price)
 		if coinPrice <= price {
 			res = append(res, coin.Symbol)
 		}
 	}
 	return res
+}
+
+// ConvertStringPriceToFloat converts string to float64
+func ConvertStringPriceToFloat(price string) float64 {
+	re := regexp.MustCompile(`[0-9.]+`)
+	priceArr := re.FindAllString(price, -1)
+	coinPriceStr := strings.Join(priceArr[:], "")
+	coinPrice, _ := strconv.ParseFloat(coinPriceStr, 64)
+	return coinPrice
+}
+
+// SortPrice sorts cryptocurrencies by price
+func SortPrice(coins []Crypto) []Crypto {
+	sort.SliceStable(coins, func(i, j int) bool {
+		priceI := ConvertStringPriceToFloat(coins[i].Price)
+		priceJ := ConvertStringPriceToFloat(coins[j].Price)
+		return priceI < priceJ
+	})
+	return coins
 }
 
 // GetLimitPrice returns the limit price input
@@ -95,8 +111,11 @@ func main() {
 		cryptoJSON, _ := json.MarshalIndent(coins, "", "")
 		_ = ioutil.WriteFile("output.json", cryptoJSON, 0644)
 
-		fmt.Println(GetCoins(GetLimitPrice(), coins))
+		SortPrice(coins)
 
+		limit := GetLimitPrice()
+		fmt.Printf("Cryptocurrencies under $%.3f in ascending order: ", limit)
+		fmt.Println(strings.Join(GetCoins(limit, coins), ", "))
 	})
 
 	c.Visit("https://coinmarketcap.com/all/views/all/")
