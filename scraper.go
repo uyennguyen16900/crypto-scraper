@@ -8,6 +8,8 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"strconv"
+	"strings"
 
 	"github.com/gocolly/colly"
 )
@@ -27,19 +29,19 @@ func GetCoins(price float64, coins []Crypto) []string {
 	var res []string
 	for _, coin := range coins {
 		fmt.Println("price", coin.Price[1:])
-		re := regexp.MustCompile(`/[0-9.]+/g`)
-		fmt.Println("heyy", re.FindAllString("44,5.6", -1))
-		// 	digits := reg.FindAllString(coin.Price, -1)
-		// 	coinPrice, _ := strconv.ParseFloat(digits, 64)
-		// 	fmt.Println(coinPrice)
-		// 	if coinPrice <= price {
-		// 		res = append(res, coin.Symbol)
-		// 	}
+		re := regexp.MustCompile(`[0-9.]+`)
+		priceArr := re.FindAllString(coin.Price[1:], -1)
+		coinPriceStr := strings.Join(priceArr[:], "")
+		coinPrice, _ := strconv.ParseFloat(coinPriceStr, 64)
+
+		if coinPrice <= price {
+			res = append(res, coin.Symbol)
+		}
 	}
 	return res
 }
 
-// GetLimitPrice returns the limit price
+// GetLimitPrice returns the limit price input
 func GetLimitPrice() float64 {
 	fmt.Println("Enter the limit price: ")
 
