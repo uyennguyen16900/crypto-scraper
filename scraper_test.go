@@ -79,13 +79,6 @@ func TestSortPrice(t *testing.T) {
 	}
 }
 
-// func TestGetLimitPrice(t *testing.T) {
-// 	output := GetLimitPrice()
-// 	if output != 2.18 {
-// 		t.Error("Test Failed: {}")
-// 	}
-// }
-
 func BenchmarkGetCoins(b *testing.B) {
 	coins := []Crypto{
 		{"Polkadot", "$37.68", "DOT"},
