@@ -1,22 +1,22 @@
 [
 {
 "Name": "Bitcoin",
-"Price": "$50,481.64",
+"Price": "$49,650.37",
 "Symbol": "BTC"
 },
 {
 "Name": "Ethereum",
-"Price": "$1,593.32",
+"Price": "$1,558.86",
 "Symbol": "ETH"
 },
 {
 "Name": "Cardano",
-"Price": "$1.23",
+"Price": "$1.20",
 "Symbol": "ADA"
 },
 {
 "Name": "Binance Coin",
-"Price": "$242.35",
+"Price": "$241.80",
 "Symbol": "BNB"
 },
 {
@@ -26,32 +26,32 @@
 },
 {
 "Name": "Polkadot",
-"Price": "$36.87",
+"Price": "$36.78",
 "Symbol": "DOT"
 },
 {
 "Name": "XRP",
-"Price": "$0.4429",
+"Price": "$0.4420",
 "Symbol": "XRP"
 },
 {
 "Name": "Litecoin",
-"Price": "$188.70",
+"Price": "$186.23",
 "Symbol": "LTC"
 },
 {
 "Name": "Chainlink",
-"Price": "$30.41",
+"Price": "$29.24",
 "Symbol": "LINK"
 },
 {
 "Name": "Bitcoin Cash",
-"Price": "$532.99",
+"Price": "$515.85",
 "Symbol": "BCH"
 },
 {
 "Name": "Stellar",
-"Price": "$0.4215",
+"Price": "$0.4165",
 "Symbol": "XLM"
 },
 {
@@ -61,92 +61,97 @@
 },
 {
 "Name": "Uniswap",
-"Price": "$25.85",
+"Price": "$25.00",
 "Symbol": "UNI"
 },
 {
 "Name": "NEM",
-"Price": "$0.7925",
+"Price": "$0.7570",
 "Symbol": "XEM"
 },
 {
 "Name": "Dogecoin",
-"Price": "$0.05037",
+"Price": "$0.05001",
 "Symbol": "DOGE"
 },
 {
 "Name": "Wrapped Bitcoin",
-"Price": "$50,830.45",
+"Price": "$49,536.24",
 "Symbol": "WBTC"
 },
 {
 "Name": "Aave",
-"Price": "$400.75",
+"Price": "$388.77",
 "Symbol": "AAVE"
 },
 {
 "Name": "Cosmos",
-"Price": "$19.45",
+"Price": "$20.86",
 "Symbol": "ATOM"
 },
 {
-"Name": "Monero",
-"Price": "$220.40",
-"Symbol": "XMR"
-},
-{
 "Name": "THETA",
-"Price": "$3.83",
+"Price": "$3.95",
 "Symbol": "THETA"
 },
 {
-"Name": "Solana",
-"Price": "$14.30",
-"Symbol": "SOL"
+"Name": "Monero",
+"Price": "$216.19",
+"Symbol": "XMR"
 },
 {
 "Name": "Crypto.com Coin",
-"Price": "$0.1552",
+"Price": "$0.1534",
 "Symbol": "CRO"
 },
 {
 "Name": "EOS",
-"Price": "$3.84",
+"Price": "$3.80",
 "Symbol": "EOS"
 },
 {
-"Name": "Bitcoin SV",
-"Price": "$191.51",
-"Symbol": "BSV"
+"Name": "Solana",
+"Price": "$13.77",
+"Symbol": "SOL"
 },
 {
 "Name": "TRON",
-"Price": "$0.04869",
+"Price": "$0.05009",
 "Symbol": "TRX"
 },
 {
-"Name": "IOTA",
-"Price": "$1.21",
-"Symbol": "MIOTA"
+"Name": "Bitcoin SV",
+"Price": "$186.36",
+"Symbol": "BSV"
 },
 {
 "Name": "VeChain",
-"Price": "$0.05035",
+"Price": "$0.05189",
 "Symbol": "VET"
 },
 {
+"Name": "IOTA",
+"Price": "$1.20",
+"Symbol": "MIOTA"
+},
+{
+"Name": "Huobi Token",
+"Price": "$16.72",
+"Symbol": "HT"
+},
+{
 "Name": "FTX Token",
-"Price": "$31.58",
+"Price": "$30.65",
 "Symbol": "FTT"
 },
 {
 "Name": "Tezos",
-"Price": "$3.84",
+"Price": "$3.80",
 "Symbol": "XTZ"
 },
 {
 "Name": "Terra",
-"Price": "$7.12",
+"Price": "$7.18",
 "Symbol": "LUNA"
 },
 {
@@ -155,24 +160,14 @@
 "Symbol": "BUSD"
 },
 {
-"Name": "Huobi Token",
-"Price": "$15.05",
-"Symbol": "HT"
-},
-{
 "Name": "Neo",
-"Price": "$39.59",
+"Price": "$39.23",
 "Symbol": "NEO"
 },
 {
 "Name": "Synthetix",
-"Price": "$23.23",
+"Price": "$23.45",
 "Symbol": "SNX"
-},
-{
-"Name": "Dai",
-"Price": "$1.00",
-"Symbol": "DAI"
 },
 {
 "Name": "Algorand",
@@ -180,254 +175,254 @@
 "Symbol": "ALGO"
 },
 {
+"Name": "Dai",
+"Price": "$1.00",
+"Symbol": "DAI"
+},
+{
+"Name": "Elrond",
+"Price": "$144.82",
+"Symbol": "EGLD"
+},
+{
 "Name": "The Graph",
-"Price": "$1.99",
+"Price": "$1.92",
 "Symbol": "GRT"
 },
 {
 "Name": "Filecoin",
-"Price": "$42.21",
+"Price": "$41.23",
 "Symbol": "FIL"
 },
 {
-"Name": "Elrond",
-"Price": "$136.73",
-"Symbol": "EGLD"
-},
-{
 "Name": "Compound",
-"Price": "$501.25",
+"Price": "$482.75",
 "Symbol": "COMP"
 },
 {
+"Name": "Dash",
+"Price": "$221.14",
+"Symbol": "DASH"
+},
+{
 "Name": "SushiSwap",
-"Price": "$17.67",
+"Price": "$17.31",
 "Symbol": "SUSHI"
 },
 {
 "Name": "Maker",
-"Price": "$2,262.61",
+"Price": "$2,148.95",
 "Symbol": "MKR"
 },
 {
-"Name": "Dash",
-"Price": "$223.87",
-"Symbol": "DASH"
-},
-{
 "Name": "Avalanche",
-"Price": "$27.63",
+"Price": "$27.15",
 "Symbol": "AVAX"
 },
 {
 "Name": "Kusama",
-"Price": "$245.64",
+"Price": "$242.15",
 "Symbol": "KSM"
 },
 {
 "Name": "UNUS SED LEO",
-"Price": "$1.93",
+"Price": "$1.91",
 "Symbol": "LEO"
 },
 {
 "Name": "Decred",
-"Price": "$148.96",
+"Price": "$147.70",
 "Symbol": "DCR"
 },
 {
 "Name": "PancakeSwap",
-"Price": "$12.70",
+"Price": "$12.65",
 "Symbol": "CAKE"
 },
 {
+"Name": "Zcash",
+"Price": "$124.71",
+"Symbol": "ZEC"
+},
+{
 "Name": "Voyager Token",
-"Price": "$6.47",
+"Price": "$6.18",
 "Symbol": "VGX"
 },
 {
 "Name": "Zilliqa",
-"Price": "$0.1262",
+"Price": "$0.1201",
 "Symbol": "ZIL"
 },
 {
-"Name": "Zcash",
-"Price": "$123.53",
-"Symbol": "ZEC"
+"Name": "NEAR Protocol",
+"Price": "$4.29",
+"Symbol": "NEAR"
+},
+{
+"Name": "Ethereum Classic",
+"Price": "$11.26",
+"Symbol": "ETC"
+},
+{
+"Name": "Ravencoin",
+"Price": "$0.1571",
+"Symbol": "RVN"
 },
 {
 "Name": "THORChain",
-"Price": "$5.76",
+"Price": "$5.41",
 "Symbol": "RUNE"
 },
 {
 "Name": "Fantom",
-"Price": "$0.5344",
+"Price": "$0.5000",
 "Symbol": "FTM"
 },
 {
-"Name": "Ravencoin",
-"Price": "$0.1598",
-"Symbol": "RVN"
-},
-{
-"Name": "Ethereum Classic",
-"Price": "$11.25",
-"Symbol": "ETC"
-},
-{
-"Name": "NEAR Protocol",
-"Price": "$4.15",
-"Symbol": "NEAR"
-},
-{
-"Name": "yearn.finance",
-"Price": "$34,117.40",
-"Symbol": "YFI"
-},
-{
-"Name": "UMA",
-"Price": "$22.12",
-"Symbol": "UMA"
-},
-{
 "Name": "Nexo",
-"Price": "$2.22",
+"Price": "$2.26",
 "Symbol": "NEXO"
 },
 {
+"Name": "Bitcoin BEP2",
+"Price": "$49,804.06",
+"Symbol": "BTCB"
+},
+{
+"Name": "yearn.finance",
+"Price": "$33,255.85",
+"Symbol": "YFI"
+},
+{
 "Name": "BitTorrent",
-"Price": "$0.001222",
+"Price": "$0.001227",
 "Symbol": "BTT"
 },
 {
+"Name": "UMA",
+"Price": "$21.19",
+"Symbol": "UMA"
+},
+{
 "Name": "Celsius",
-"Price": "$4.80",
+"Price": "$4.66",
 "Symbol": "CEL"
 },
 {
 "Name": "Basic Attention Token",
-"Price": "$0.7568",
+"Price": "$0.7456",
 "Symbol": "BAT"
 },
 {
 "Name": "Ren",
-"Price": "$1.12",
+"Price": "$1.10",
 "Symbol": "REN"
 },
 {
-"Name": "0x",
-"Price": "$1.48",
-"Symbol": "ZRX"
+"Name": "OKB",
+"Price": "$18.31",
+"Symbol": "OKB"
 },
 {
 "Name": "Polygon",
-"Price": "$0.2230",
+"Price": "$0.2204",
 "Symbol": "MATIC"
 },
 {
+"Name": "0x",
+"Price": "$1.41",
+"Symbol": "ZRX"
+},
+{
 "Name": "Revain",
-"Price": "$0.01232",
+"Price": "$0.01233",
 "Symbol": "REV"
 },
 {
 "Name": "ICON",
-"Price": "$1.75",
+"Price": "$1.77",
 "Symbol": "ICX"
 },
 {
-"Name": "Bitcoin BEP2",
-"Price": "$50,800.24",
-"Symbol": "BTCB"
-},
-{
-"Name": "Waves",
-"Price": "$9.76",
-"Symbol": "WAVES"
-},
-{
-"Name": "OKB",
-"Price": "$16.87",
-"Symbol": "OKB"
-},
-{
-"Name": "Enjin Coin",
-"Price": "$1.21",
-"Symbol": "ENJ"
-},
-{
-"Name": "Bancor",
-"Price": "$6.64",
-"Symbol": "BNT"
-},
-{
 "Name": "Hedera Hashgraph",
-"Price": "$0.1270",
+"Price": "$0.1386",
 "Symbol": "HBAR"
 },
 {
+"Name": "Waves",
+"Price": "$9.71",
+"Symbol": "WAVES"
+},
+{
+"Name": "Bancor",
+"Price": "$6.61",
+"Symbol": "BNT"
+},
+{
+"Name": "Enjin Coin",
+"Price": "$1.15",
+"Symbol": "ENJ"
+},
+{
 "Name": "SwissBorg",
-"Price": "$0.9341",
+"Price": "$0.9477",
 "Symbol": "CHSB"
 },
 {
-"Name": "renBTC",
-"Price": "$50,769.64",
-"Symbol": "RENBTC"
-},
-{
 "Name": "DigiByte",
-"Price": "$0.05876",
+"Price": "$0.06227",
 "Symbol": "DGB"
 },
 {
+"Name": "renBTC",
+"Price": "$49,495.76",
+"Symbol": "RENBTC"
+},
+{
 "Name": "HUSD",
-"Price": "$0.9998",
+"Price": "$1.00",
 "Symbol": "HUSD"
 },
 {
-"Name": "Stacks",
-"Price": "$1.08",
-"Symbol": "STX"
-},
-{
 "Name": "Ontology",
-"Price": "$0.9794",
+"Price": "$0.9966",
 "Symbol": "ONT"
 },
 {
 "Name": "Flow",
-"Price": "$32.94",
+"Price": "$33.66",
 "Symbol": "FLOW"
 },
 {
 "Name": "Celo",
-"Price": "$4.07",
+"Price": "$4.02",
 "Symbol": "CELO"
 },
 {
-"Name": "TerraUSD",
-"Price": "$1.00",
-"Symbol": "UST"
-},
-{
-"Name": "Loopring",
-"Price": "$0.5854",
-"Symbol": "LRC"
-},
-{
-"Name": "Nano",
-"Price": "$5.35",
-"Symbol": "NANO"
+"Name": "Stacks",
+"Price": "$0.9978",
+"Symbol": "STX"
 },
 {
 "Name": "IOST",
-"Price": "$0.04160",
+"Price": "$0.04462",
 "Symbol": "IOST"
 },
 {
-"Name": "OMG Network",
-"Price": "$4.83",
-"Symbol": "OMG"
+"Name": "TerraUSD",
+"Price": "$0.9999",
+"Symbol": "UST"
+},
+{
+"Name": "Nano",
+"Price": "$5.37",
+"Symbol": "NANO"
+},
+{
+"Name": "Loopring",
+"Price": "$0.5687",
+"Symbol": "LRC"
 },
 {
 "Name": "Paxos Standard",
@@ -435,334 +430,344 @@
 "Symbol": "PAX"
 },
 {
+"Name": "OMG Network",
+"Price": "$4.78",
+"Symbol": "OMG"
+},
+{
 "Name": "Theta Fuel",
-"Price": "$0.1254",
+"Price": "$0.1257",
 "Symbol": "TFUEL"
 },
 {
 "Name": "1inch",
-"Price": "$4.16",
+"Price": "$4.05",
 "Symbol": "1INCH"
 },
 {
 "Name": "Reserve Rights",
-"Price": "$0.06276",
+"Price": "$0.06026",
 "Symbol": "RSR"
 },
 {
-"Name": "Curve DAO Token",
-"Price": "$2.31",
-"Symbol": "CRV"
-},
-{
-"Name": "Energy Web Token",
-"Price": "$17.69",
-"Symbol": "EWT"
-},
-{
-"Name": "Qtum",
-"Price": "$5.35",
-"Symbol": "QTUM"
-},
-{
-"Name": "Horizen",
-"Price": "$47.55",
-"Symbol": "ZEN"
-},
-{
-"Name": "ZKSwap",
-"Price": "$2.59",
-"Symbol": "ZKS"
-},
-{
 "Name": "Decentraland",
-"Price": "$0.3211",
+"Price": "$0.3535",
 "Symbol": "MANA"
 },
 {
+"Name": "Curve DAO Token",
+"Price": "$2.23",
+"Symbol": "CRV"
+},
+{
+"Name": "Qtum",
+"Price": "$5.33",
+"Symbol": "QTUM"
+},
+{
+"Name": "ZKSwap",
+"Price": "$2.61",
+"Symbol": "ZKS"
+},
+{
 "Name": "Arweave",
-"Price": "$15.03",
+"Price": "$15.05",
 "Symbol": "AR"
 },
 {
+"Name": "Horizen",
+"Price": "$46.32",
+"Symbol": "ZEN"
+},
+{
+"Name": "Energy Web Token",
+"Price": "$16.67",
+"Symbol": "EWT"
+},
+{
+"Name": "Chiliz",
+"Price": "$0.09143",
+"Symbol": "CHZ"
+},
+{
 "Name": "Siacoin",
-"Price": "$0.01057",
+"Price": "$0.01056",
 "Symbol": "SC"
 },
 {
 "Name": "Bitcoin Gold",
-"Price": "$28.31",
+"Price": "$28.00",
 "Symbol": "BTG"
 },
 {
 "Name": "Pundi X",
-"Price": "$0.002056",
+"Price": "$0.002045",
 "Symbol": "NPXS"
 },
 {
-"Name": "Ocean Protocol",
-"Price": "$1.12",
-"Symbol": "OCEAN"
-},
-{
 "Name": "Holo",
-"Price": "$0.002702",
+"Price": "$0.002679",
 "Symbol": "HOT"
 },
 {
+"Name": "Ocean Protocol",
+"Price": "$1.06",
+"Symbol": "OCEAN"
+},
+{
 "Name": "DODO",
-"Price": "$4.35",
+"Price": "$4.41",
 "Symbol": "DODO"
 },
 {
-"Name": "Venus",
-"Price": "$47.91",
-"Symbol": "XVS"
-},
-{
-"Name": "Chiliz",
-"Price": "$0.07666",
-"Symbol": "CHZ"
-},
-{
-"Name": "Badger DAO",
-"Price": "$56.33",
-"Symbol": "BADGER"
+"Name": "Reef",
+"Price": "$0.03726",
+"Symbol": "REEF"
 },
 {
 "Name": "Lisk",
-"Price": "$3.17",
+"Price": "$3.15",
 "Symbol": "LSK"
 },
 {
+"Name": "Venus",
+"Price": "$45.82",
+"Symbol": "XVS"
+},
+{
 "Name": "Quant",
-"Price": "$33.39",
+"Price": "$33.20",
 "Symbol": "QNT"
 },
 {
+"Name": "Badger DAO",
+"Price": "$52.41",
+"Symbol": "BADGER"
+},
+{
 "Name": "HedgeTrade",
-"Price": "$1.12",
+"Price": "$1.11",
 "Symbol": "HEDG"
 },
 {
 "Name": "KuCoin Token",
-"Price": "$4.72",
+"Price": "$4.75",
 "Symbol": "KCS"
 },
 {
+"Name": "TrustSwap",
+"Price": "$4.65",
+"Symbol": "SWAP"
+},
+{
 "Name": "Kyber Network",
-"Price": "$1.85",
+"Price": "$1.81",
 "Symbol": "KNC"
 },
 {
 "Name": "Golem",
-"Price": "$0.3654",
+"Price": "$0.3576",
 "Symbol": "GLM"
 },
 {
-"Name": "TrustSwap",
-"Price": "$4.74",
-"Symbol": "SWAP"
-},
-{
 "Name": "Alpha Finance Lab",
-"Price": "$1.82",
+"Price": "$1.89",
 "Symbol": "ALPHA"
 },
 {
 "Name": "Augur",
-"Price": "$28.59",
+"Price": "$28.40",
 "Symbol": "REP"
 },
 {
 "Name": "Verge",
-"Price": "$0.01881",
+"Price": "$0.01897",
 "Symbol": "XVG"
 },
 {
 "Name": "Helium",
-"Price": "$4.19",
+"Price": "$4.14",
 "Symbol": "HNT"
 },
 {
 "Name": "Status",
-"Price": "$0.08555",
+"Price": "$0.08542",
 "Symbol": "SNT"
 },
 {
 "Name": "TrueUSD",
-"Price": "$1.00",
+"Price": "$0.9996",
 "Symbol": "TUSD"
 },
 {
+"Name": "IoTeX",
+"Price": "$0.02981",
+"Symbol": "IOTX"
+},
+{
 "Name": "NuCypher",
-"Price": "$0.7183",
+"Price": "$0.7033",
 "Symbol": "NU"
 },
 {
 "Name": "Polkastarter",
-"Price": "$4.84",
+"Price": "$4.68",
 "Symbol": "POLS"
 },
 {
-"Name": "IoTeX",
-"Price": "$0.02974",
-"Symbol": "IOTX"
-},
-{
-"Name": "Band Protocol",
-"Price": "$13.68",
-"Symbol": "BAND"
+"Name": "Harmony",
+"Price": "$0.02969",
+"Symbol": "ONE"
 },
 {
 "Name": "Ampleforth",
-"Price": "$0.9075",
+"Price": "$0.8974",
 "Symbol": "AMPL"
 },
 {
+"Name": "Band Protocol",
+"Price": "$13.08",
+"Symbol": "BAND"
+},
+{
 "Name": "Nervos Network",
-"Price": "$0.01136",
+"Price": "$0.01091",
 "Symbol": "CKB"
 },
 {
 "Name": "Serum",
-"Price": "$5.46",
+"Price": "$5.20",
 "Symbol": "SRM"
 },
 {
-"Name": "Harmony",
-"Price": "$0.02940",
-"Symbol": "ONE"
-},
-{
 "Name": "Kava.io",
-"Price": "$4.62",
+"Price": "$4.44",
 "Symbol": "KAVA"
 },
 {
-"Name": "Balancer",
-"Price": "$38.43",
-"Symbol": "BAL"
-},
-{
 "Name": "Civic",
-"Price": "$0.3870",
+"Price": "$0.3864",
 "Symbol": "CVC"
 },
 {
+"Name": "Balancer",
+"Price": "$36.88",
+"Symbol": "BAL"
+},
+{
 "Name": "Fetch.ai",
-"Price": "$0.3309",
+"Price": "$0.3243",
 "Symbol": "FET"
 },
 {
-"Name": "Swipe",
-"Price": "$2.65",
-"Symbol": "SXP"
-},
-{
 "Name": "Polymath",
-"Price": "$0.3771",
+"Price": "$0.3900",
 "Symbol": "POLY"
 },
 {
+"Name": "Swipe",
+"Price": "$2.50",
+"Symbol": "SXP"
+},
+{
 "Name": "Secret",
-"Price": "$3.23",
+"Price": "$3.14",
 "Symbol": "SCRT"
 },
 {
+"Name": "Ankr",
+"Price": "$0.03353",
+"Symbol": "ANKR"
+},
+{
 "Name": "MaidSafeCoin",
-"Price": "$0.4781",
+"Price": "$0.4607",
 "Symbol": "MAID"
 },
 {
 "Name": "Injective Protocol",
-"Price": "$13.38",
+"Price": "$13.18",
 "Symbol": "INJ"
 },
 {
-"Name": "Bitcoin Diamond",
-"Price": "$1.11",
-"Symbol": "BCD"
-},
-{
-"Name": "Ankr",
-"Price": "$0.03159",
-"Symbol": "ANKR"
-},
-{
 "Name": "FunFair",
-"Price": "$0.03105",
+"Price": "$0.03108",
 "Symbol": "FUN"
 },
 {
-"Name": "Unibright",
-"Price": "$1.34",
-"Symbol": "UBT"
-},
-{
-"Name": "Numeraire",
-"Price": "$41.91",
-"Symbol": "NMR"
+"Name": "Bitcoin Diamond",
+"Price": "$1.09",
+"Symbol": "BCD"
 },
 {
 "Name": "Gnosis",
-"Price": "$131.91",
+"Price": "$133.62",
 "Symbol": "GNO"
 },
 {
 "Name": "Aragon",
-"Price": "$4.98",
+"Price": "$5.01",
 "Symbol": "ANT"
 },
 {
+"Name": "Numeraire",
+"Price": "$41.44",
+"Symbol": "NMR"
+},
+{
+"Name": "Unibright",
+"Price": "$1.32",
+"Symbol": "UBT"
+},
+{
 "Name": "ZB Token",
-"Price": "$0.4119",
+"Price": "$0.4164",
 "Symbol": "ZB"
 },
 {
+"Name": "VeThor Token",
+"Price": "$0.005613",
+"Symbol": "VTHO"
+},
+{
+"Name": "Orchid",
+"Price": "$0.5012",
+"Symbol": "OXT"
+},
+{
 "Name": "saffron.finance",
-"Price": "$2,455.43",
+"Price": "$2,354.41",
 "Symbol": "SFI"
 },
 {
 "Name": "RSK Infrastructure Framework",
-"Price": "$0.2732",
+"Price": "$0.2611",
 "Symbol": "RIF"
 },
 {
 "Name": "Bitcoin Standard Hashrate Token",
-"Price": "$315.67",
+"Price": "$308.14",
 "Symbol": "BTCST"
 },
 {
-"Name": "Orchid",
-"Price": "$0.5034",
-"Symbol": "OXT"
-},
-{
-"Name": "SingularityNET",
-"Price": "$0.2086",
-"Symbol": "AGI"
-},
-{
 "Name": "Ardor",
-"Price": "$0.1810",
+"Price": "$0.1812",
 "Symbol": "ARDR"
 },
 {
+"Name": "SingularityNET",
+"Price": "$0.2029",
+"Symbol": "AGI"
+},
+{
 "Name": "Telcoin",
-"Price": "$0.003469",
+"Price": "$0.003366",
 "Symbol": "TEL"
 },
 {
 "Name": "ABBC Coin",
-"Price": "$0.2147",
+"Price": "$0.2085",
 "Symbol": "ABBC"
-},
-{
-"Name": "Storj",
-"Price": "$0.6937",
-"Symbol": "STORJ"
 },
 {
 "Name": "Komodo",
@@ -770,149 +775,159 @@
 "Symbol": "KMD"
 },
 {
+"Name": "Storj",
+"Price": "$0.6707",
+"Symbol": "STORJ"
+},
+{
 "Name": "Ark",
-"Price": "$1.30",
+"Price": "$1.32",
 "Symbol": "ARK"
 },
 {
 "Name": "Steem",
-"Price": "$0.4381",
+"Price": "$0.4426",
 "Symbol": "STEEM"
 },
 {
-"Name": "Stratis",
-"Price": "$1.25",
-"Symbol": "STRAX"
-},
-{
-"Name": "Vai",
-"Price": "$0.9944",
-"Symbol": "VAI"
-},
-{
-"Name": "VeThor Token",
-"Price": "$0.004850",
-"Symbol": "VTHO"
-},
-{
-"Name": "Kin",
-"Price": "$0.0001017",
-"Symbol": "KIN"
-},
-{
-"Name": "OriginTrail",
-"Price": "$0.4484",
-"Symbol": "TRAC"
-},
-{
-"Name": "Utrust",
-"Price": "$0.3504",
-"Symbol": "UTK"
-},
-{
-"Name": "TomoChain",
-"Price": "$1.95",
-"Symbol": "TOMO"
+"Name": "WAX",
+"Price": "$0.1106",
+"Symbol": "WAXP"
 },
 {
 "Name": "district0x",
-"Price": "$0.2589",
+"Price": "$0.2675",
 "Symbol": "DNT"
 },
 {
-"Name": "Syntropy",
-"Price": "$0.4691",
-"Symbol": "NOIA"
+"Name": "Stratis",
+"Price": "$1.23",
+"Symbol": "STRAX"
+},
+{
+"Name": "Kin",
+"Price": "$0.0001043",
+"Symbol": "KIN"
+},
+{
+"Name": "Vai",
+"Price": "$0.9937",
+"Symbol": "VAI"
+},
+{
+"Name": "OriginTrail",
+"Price": "$0.4497",
+"Symbol": "TRAC"
+},
+{
+"Name": "TomoChain",
+"Price": "$1.91",
+"Symbol": "TOMO"
+},
+{
+"Name": "Utrust",
+"Price": "$0.3410",
+"Symbol": "UTK"
+},
+{
+"Name": "COTI",
+"Price": "$0.2257",
+"Symbol": "COTI"
 },
 {
 "Name": "Oasis Network",
-"Price": "$0.1016",
+"Price": "$0.09954",
 "Symbol": "ROSE"
 },
 {
 "Name": "aelf",
-"Price": "$0.2782",
+"Price": "$0.2718",
 "Symbol": "ELF"
 },
 {
-"Name": "Litentry",
-"Price": "$8.25",
-"Symbol": "LIT"
-},
-{
 "Name": "BitShares",
-"Price": "$0.04928",
+"Price": "$0.04932",
 "Symbol": "BTS"
 },
 {
-"Name": "COTI",
-"Price": "$0.2192",
-"Symbol": "COTI"
-},
-{
-"Name": "Power Ledger",
-"Price": "$0.3390",
-"Symbol": "POWR"
-},
-{
-"Name": "WAX",
-"Price": "$0.09497",
-"Symbol": "WAXP"
-},
-{
-"Name": "Dent",
-"Price": "$0.001596",
-"Symbol": "DENT"
-},
-{
-"Name": "Wanchain",
-"Price": "$0.8367",
-"Symbol": "WAN"
+"Name": "Litentry",
+"Price": "$8.08",
+"Symbol": "LIT"
 },
 {
 "Name": "Hifi Finance",
-"Price": "$0.01389",
+"Price": "$0.01440",
 "Symbol": "MFT"
 },
 {
-"Name": "Wootrade",
-"Price": "$0.3512",
-"Symbol": "WOO"
+"Name": "Dent",
+"Price": "$0.001582",
+"Symbol": "DENT"
+},
+{
+"Name": "Syntropy",
+"Price": "$0.4349",
+"Symbol": "NOIA"
+},
+{
+"Name": "Wanchain",
+"Price": "$0.8273",
+"Symbol": "WAN"
 },
 {
 "Name": "MonaCoin",
-"Price": "$2.00",
+"Price": "$2.06",
 "Symbol": "MONA"
 },
 {
-"Name": "Celer Network",
-"Price": "$0.02427",
-"Symbol": "CELR"
+"Name": "Power Ledger",
+"Price": "$0.3123",
+"Symbol": "POWR"
 },
 {
 "Name": "CyberVein",
-"Price": "$0.1228",
+"Price": "$0.1235",
 "Symbol": "CVT"
 },
 {
+"Name": "BORA",
+"Price": "$0.1534",
+"Symbol": "BORA"
+},
+{
 "Name": "iExec RLC",
-"Price": "$1.58",
+"Price": "$1.61",
 "Symbol": "RLC"
 },
 {
-"Name": "PAX Gold",
-"Price": "$1,728.83",
-"Symbol": "PAXG"
+"Name": "Wootrade",
+"Price": "$0.3368",
+"Symbol": "WOO"
 },
 {
 "Name": "ReddCoin",
-"Price": "$0.004540",
+"Price": "$0.004337",
 "Symbol": "RDD"
 },
 {
+"Name": "Celer Network",
+"Price": "$0.02335",
+"Symbol": "CELR"
+},
+{
 "Name": "Loom Network",
-"Price": "$0.1251",
+"Price": "$0.1274",
 "Symbol": "LOOM"
+},
+{
+"Name": "PAX Gold",
+"Price": "$1,719.08",
+"Symbol": "PAXG"
+},
+{
+"Name": "GateToken",
+"Price": "$1.54",
+"Symbol": "GT"
 },
 {
 "Name": "Gemini Dollar",
@@ -921,82 +936,67 @@
 },
 {
 "Name": "Hive",
-"Price": "$0.3010",
+"Price": "$0.2979",
 "Symbol": "HIVE"
 },
 {
-"Name": "Unifi Protocol DAO",
-"Price": "$34.82",
-"Symbol": "UNFI"
-},
-{
 "Name": "Haven Protocol",
-"Price": "$8.36",
+"Price": "$8.46",
 "Symbol": "XHV"
 },
 {
-"Name": "Bytom",
-"Price": "$0.08262",
-"Symbol": "BTM"
-},
-{
 "Name": "JUST",
-"Price": "$0.05075",
+"Price": "$0.05161",
 "Symbol": "JST"
 },
 {
-"Name": "Gas",
-"Price": "$11.32",
-"Symbol": "GAS"
-},
-{
 "Name": "Travala.com",
-"Price": "$2.51",
+"Price": "$2.49",
 "Symbol": "AVA"
 },
 {
+"Name": "Unifi Protocol DAO",
+"Price": "$33.90",
+"Symbol": "UNFI"
+},
+{
+"Name": "Bytom",
+"Price": "$0.08107",
+"Symbol": "BTM"
+},
+{
 "Name": "Populous",
-"Price": "$2.15",
+"Price": "$2.14",
 "Symbol": "PPT"
 },
 {
-"Name": "GateToken",
-"Price": "$1.42",
-"Symbol": "GT"
+"Name": "Gas",
+"Price": "$11.20",
+"Symbol": "GAS"
 },
 {
 "Name": "Handshake",
-"Price": "$0.3059",
+"Price": "$0.3027",
 "Symbol": "HNS"
 },
 {
-"Name": "LTO Network",
-"Price": "$0.3909",
-"Symbol": "LTO"
-},
-{
-"Name": "Aidos Kuneen",
-"Price": "$4.23",
-"Symbol": "ADK"
-},
-{
-"Name": "Uquid Coin",
-"Price": "$10.49",
-"Symbol": "UQC"
-},
-{
 "Name": "Akropolis",
-"Price": "$0.04013",
+"Price": "$0.03982",
 "Symbol": "AKRO"
 },
 {
-"Name": "Phala Network",
-"Price": "$0.6977",
-"Symbol": "PHA"
+"Name": "Uquid Coin",
+"Price": "$10.44",
+"Symbol": "UQC"
 },
 {
-"Name": "xDai",
-"Price": "$24.32",
-"Symbol": "STAKE"
+"Name": "LTO Network",
+"Price": "$0.3800",
+"Symbol": "LTO"
+},
+{
+"Name": "Huobi Pool Token",
+"Price": "$0.01819",
+"Symbol": "HPT"
 }
 ]

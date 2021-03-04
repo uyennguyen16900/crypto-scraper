@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.jpg" height="250">
+  <img src="/logo.jpg" height="300">
 </p>
 
 # CryptoScraper
@@ -8,11 +8,12 @@
 
 CryptoScraper scrapes today's top 100 crypto coins data and return a list of all cryptocurrencies whose prices are below a given price in ascending order using Go and Colly. 
 
+[![asciicast](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD)](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD)
 ### 📚 Table of Contents
 
 1. [Project Structure](#project-structure)
 2. [Getting Started](#getting-started)
-3. [Deliverables](#deliverables)
+3. [Built With](#built-with)
 4. [Resources](#resources)
 ## Project Structure
 
@@ -26,7 +27,7 @@ CryptoScraper scrapes today's top 100 crypto coins data and return a list of all
 
 ```
 
-## Getting Started
+## 🚀 Getting Started
 Run each command line-by-line to set up the project
 ```bash
 $ git clone git@github.com:uyennguyen16900/crypto-scraper.git
@@ -49,6 +50,10 @@ $ go test -bench=.
 ```
 
 ## Resources
+### 🔨Built With
 - [**Colly** - Docs](http://go-colly.org/docs/)
 - [**Go** - Docs](https://golang.org/doc/)
+
+### Example Code
 - [Go Examples](http://go-colly.org/docs/examples/basic/)
+- [GoByExample - JSON](https://gobyexample.com/json)

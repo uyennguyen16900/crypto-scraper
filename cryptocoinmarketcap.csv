@@ -1,201 +1,201 @@
 Name,Symbol,Price (USD)
-Bitcoin,BTC,"$50,481.64"
-Ethereum,ETH,"$1,593.32"
-Cardano,ADA,$1.23
-Binance Coin,BNB,$242.35
+Bitcoin,BTC,"$49,650.37"
+Ethereum,ETH,"$1,558.86"
+Cardano,ADA,$1.20
+Binance Coin,BNB,$241.80
 Tether,USDT,$1.00
-Polkadot,DOT,$36.87
-XRP,XRP,$0.4429
-Litecoin,LTC,$188.70
-Chainlink,LINK,$30.41
-Bitcoin Cash,BCH,$532.99
-Stellar,XLM,$0.4215
+Polkadot,DOT,$36.78
+XRP,XRP,$0.4420
+Litecoin,LTC,$186.23
+Chainlink,LINK,$29.24
+Bitcoin Cash,BCH,$515.85
+Stellar,XLM,$0.4165
 USD Coin,USDC,$1.00
-Uniswap,UNI,$25.85
-NEM,XEM,$0.7925
-Dogecoin,DOGE,$0.05037
-Wrapped Bitcoin,WBTC,"$50,830.45"
-Aave,AAVE,$400.75
-Cosmos,ATOM,$19.45
-Monero,XMR,$220.40
-THETA,THETA,$3.83
-Solana,SOL,$14.30
-Crypto.com Coin,CRO,$0.1552
-EOS,EOS,$3.84
-Bitcoin SV,BSV,$191.51
-TRON,TRX,$0.04869
-IOTA,MIOTA,$1.21
-VeChain,VET,$0.05035
-FTX Token,FTT,$31.58
-Tezos,XTZ,$3.84
-Terra,LUNA,$7.12
+Uniswap,UNI,$25.00
+NEM,XEM,$0.7570
+Dogecoin,DOGE,$0.05001
+Wrapped Bitcoin,WBTC,"$49,536.24"
+Aave,AAVE,$388.77
+Cosmos,ATOM,$20.86
+THETA,THETA,$3.95
+Monero,XMR,$216.19
+Crypto.com Coin,CRO,$0.1534
+EOS,EOS,$3.80
+Solana,SOL,$13.77
+TRON,TRX,$0.05009
+Bitcoin SV,BSV,$186.36
+VeChain,VET,$0.05189
+IOTA,MIOTA,$1.20
+Huobi Token,HT,$16.72
+FTX Token,FTT,$30.65
+Tezos,XTZ,$3.80
+Terra,LUNA,$7.18
 Binance USD,BUSD,$1.00
-Huobi Token,HT,$15.05
-Neo,NEO,$39.59
-Synthetix,SNX,$23.23
-Dai,DAI,$1.00
+Neo,NEO,$39.23
+Synthetix,SNX,$23.45
 Algorand,ALGO,$1.17
-The Graph,GRT,$1.99
-Filecoin,FIL,$42.21
-Elrond,EGLD,$136.73
-Compound,COMP,$501.25
-SushiSwap,SUSHI,$17.67
-Maker,MKR,"$2,262.61"
-Dash,DASH,$223.87
-Avalanche,AVAX,$27.63
-Kusama,KSM,$245.64
-UNUS SED LEO,LEO,$1.93
-Decred,DCR,$148.96
-PancakeSwap,CAKE,$12.70
-Voyager Token,VGX,$6.47
-Zilliqa,ZIL,$0.1262
-Zcash,ZEC,$123.53
-THORChain,RUNE,$5.76
-Fantom,FTM,$0.5344
-Ravencoin,RVN,$0.1598
-Ethereum Classic,ETC,$11.25
-NEAR Protocol,NEAR,$4.15
-yearn.finance,YFI,"$34,117.40"
-UMA,UMA,$22.12
-Nexo,NEXO,$2.22
-BitTorrent,BTT,$0.001222
-Celsius,CEL,$4.80
-Basic Attention Token,BAT,$0.7568
-Ren,REN,$1.12
-0x,ZRX,$1.48
-Polygon,MATIC,$0.2230
-Revain,REV,$0.01232
-ICON,ICX,$1.75
-Bitcoin BEP2,BTCB,"$50,800.24"
-Waves,WAVES,$9.76
-OKB,OKB,$16.87
-Enjin Coin,ENJ,$1.21
-Bancor,BNT,$6.64
-Hedera Hashgraph,HBAR,$0.1270
-SwissBorg,CHSB,$0.9341
-renBTC,RENBTC,"$50,769.64"
-DigiByte,DGB,$0.05876
-HUSD,HUSD,$0.9998
-Stacks,STX,$1.08
-Ontology,ONT,$0.9794
-Flow,FLOW,$32.94
-Celo,CELO,$4.07
-TerraUSD,UST,$1.00
-Loopring,LRC,$0.5854
-Nano,NANO,$5.35
-IOST,IOST,$0.04160
-OMG Network,OMG,$4.83
+Dai,DAI,$1.00
+Elrond,EGLD,$144.82
+The Graph,GRT,$1.92
+Filecoin,FIL,$41.23
+Compound,COMP,$482.75
+Dash,DASH,$221.14
+SushiSwap,SUSHI,$17.31
+Maker,MKR,"$2,148.95"
+Avalanche,AVAX,$27.15
+Kusama,KSM,$242.15
+UNUS SED LEO,LEO,$1.91
+Decred,DCR,$147.70
+PancakeSwap,CAKE,$12.65
+Zcash,ZEC,$124.71
+Voyager Token,VGX,$6.18
+Zilliqa,ZIL,$0.1201
+NEAR Protocol,NEAR,$4.29
+Ethereum Classic,ETC,$11.26
+Ravencoin,RVN,$0.1571
+THORChain,RUNE,$5.41
+Fantom,FTM,$0.5000
+Nexo,NEXO,$2.26
+Bitcoin BEP2,BTCB,"$49,804.06"
+yearn.finance,YFI,"$33,255.85"
+BitTorrent,BTT,$0.001227
+UMA,UMA,$21.19
+Celsius,CEL,$4.66
+Basic Attention Token,BAT,$0.7456
+Ren,REN,$1.10
+OKB,OKB,$18.31
+Polygon,MATIC,$0.2204
+0x,ZRX,$1.41
+Revain,REV,$0.01233
+ICON,ICX,$1.77
+Hedera Hashgraph,HBAR,$0.1386
+Waves,WAVES,$9.71
+Bancor,BNT,$6.61
+Enjin Coin,ENJ,$1.15
+SwissBorg,CHSB,$0.9477
+DigiByte,DGB,$0.06227
+renBTC,RENBTC,"$49,495.76"
+HUSD,HUSD,$1.00
+Ontology,ONT,$0.9966
+Flow,FLOW,$33.66
+Celo,CELO,$4.02
+Stacks,STX,$0.9978
+IOST,IOST,$0.04462
+TerraUSD,UST,$0.9999
+Nano,NANO,$5.37
+Loopring,LRC,$0.5687
 Paxos Standard,PAX,$1.00
-Theta Fuel,TFUEL,$0.1254
-1inch,1INCH,$4.16
-Reserve Rights,RSR,$0.06276
-Curve DAO Token,CRV,$2.31
-Energy Web Token,EWT,$17.69
-Qtum,QTUM,$5.35
-Horizen,ZEN,$47.55
-ZKSwap,ZKS,$2.59
-Decentraland,MANA,$0.3211
-Arweave,AR,$15.03
-Siacoin,SC,$0.01057
-Bitcoin Gold,BTG,$28.31
-Pundi X,NPXS,$0.002056
-Ocean Protocol,OCEAN,$1.12
-Holo,HOT,$0.002702
-DODO,DODO,$4.35
-Venus,XVS,$47.91
-Chiliz,CHZ,$0.07666
-Badger DAO,BADGER,$56.33
-Lisk,LSK,$3.17
-Quant,QNT,$33.39
-HedgeTrade,HEDG,$1.12
-KuCoin Token,KCS,$4.72
-Kyber Network,KNC,$1.85
-Golem,GLM,$0.3654
-TrustSwap,SWAP,$4.74
-Alpha Finance Lab,ALPHA,$1.82
-Augur,REP,$28.59
-Verge,XVG,$0.01881
-Helium,HNT,$4.19
-Status,SNT,$0.08555
-TrueUSD,TUSD,$1.00
-NuCypher,NU,$0.7183
-Polkastarter,POLS,$4.84
-IoTeX,IOTX,$0.02974
-Band Protocol,BAND,$13.68
-Ampleforth,AMPL,$0.9075
-Nervos Network,CKB,$0.01136
-Serum,SRM,$5.46
-Harmony,ONE,$0.02940
-Kava.io,KAVA,$4.62
-Balancer,BAL,$38.43
-Civic,CVC,$0.3870
-Fetch.ai,FET,$0.3309
-Swipe,SXP,$2.65
-Polymath,POLY,$0.3771
-Secret,SCRT,$3.23
-MaidSafeCoin,MAID,$0.4781
-Injective Protocol,INJ,$13.38
-Bitcoin Diamond,BCD,$1.11
-Ankr,ANKR,$0.03159
-FunFair,FUN,$0.03105
-Unibright,UBT,$1.34
-Numeraire,NMR,$41.91
-Gnosis,GNO,$131.91
-Aragon,ANT,$4.98
-ZB Token,ZB,$0.4119
-saffron.finance,SFI,"$2,455.43"
-RSK Infrastructure Framework,RIF,$0.2732
-Bitcoin Standard Hashrate Token,BTCST,$315.67
-Orchid,OXT,$0.5034
-SingularityNET,AGI,$0.2086
-Ardor,ARDR,$0.1810
-Telcoin,TEL,$0.003469
-ABBC Coin,ABBC,$0.2147
-Storj,STORJ,$0.6937
+OMG Network,OMG,$4.78
+Theta Fuel,TFUEL,$0.1257
+1inch,1INCH,$4.05
+Reserve Rights,RSR,$0.06026
+Decentraland,MANA,$0.3535
+Curve DAO Token,CRV,$2.23
+Qtum,QTUM,$5.33
+ZKSwap,ZKS,$2.61
+Arweave,AR,$15.05
+Horizen,ZEN,$46.32
+Energy Web Token,EWT,$16.67
+Chiliz,CHZ,$0.09143
+Siacoin,SC,$0.01056
+Bitcoin Gold,BTG,$28.00
+Pundi X,NPXS,$0.002045
+Holo,HOT,$0.002679
+Ocean Protocol,OCEAN,$1.06
+DODO,DODO,$4.41
+Reef,REEF,$0.03726
+Lisk,LSK,$3.15
+Venus,XVS,$45.82
+Quant,QNT,$33.20
+Badger DAO,BADGER,$52.41
+HedgeTrade,HEDG,$1.11
+KuCoin Token,KCS,$4.75
+TrustSwap,SWAP,$4.65
+Kyber Network,KNC,$1.81
+Golem,GLM,$0.3576
+Alpha Finance Lab,ALPHA,$1.89
+Augur,REP,$28.40
+Verge,XVG,$0.01897
+Helium,HNT,$4.14
+Status,SNT,$0.08542
+TrueUSD,TUSD,$0.9996
+IoTeX,IOTX,$0.02981
+NuCypher,NU,$0.7033
+Polkastarter,POLS,$4.68
+Harmony,ONE,$0.02969
+Ampleforth,AMPL,$0.8974
+Band Protocol,BAND,$13.08
+Nervos Network,CKB,$0.01091
+Serum,SRM,$5.20
+Kava.io,KAVA,$4.44
+Civic,CVC,$0.3864
+Balancer,BAL,$36.88
+Fetch.ai,FET,$0.3243
+Polymath,POLY,$0.3900
+Swipe,SXP,$2.50
+Secret,SCRT,$3.14
+Ankr,ANKR,$0.03353
+MaidSafeCoin,MAID,$0.4607
+Injective Protocol,INJ,$13.18
+FunFair,FUN,$0.03108
+Bitcoin Diamond,BCD,$1.09
+Gnosis,GNO,$133.62
+Aragon,ANT,$5.01
+Numeraire,NMR,$41.44
+Unibright,UBT,$1.32
+ZB Token,ZB,$0.4164
+VeThor Token,VTHO,$0.005613
+Orchid,OXT,$0.5012
+saffron.finance,SFI,"$2,354.41"
+RSK Infrastructure Framework,RIF,$0.2611
+Bitcoin Standard Hashrate Token,BTCST,$308.14
+Ardor,ARDR,$0.1812
+SingularityNET,AGI,$0.2029
+Telcoin,TEL,$0.003366
+ABBC Coin,ABBC,$0.2085
 Komodo,KMD,$1.37
-Ark,ARK,$1.30
-Steem,STEEM,$0.4381
-Stratis,STRAX,$1.25
-Vai,VAI,$0.9944
-VeThor Token,VTHO,$0.004850
-Kin,KIN,$0.0001017
-OriginTrail,TRAC,$0.4484
-Utrust,UTK,$0.3504
-TomoChain,TOMO,$1.95
-district0x,DNT,$0.2589
-Syntropy,NOIA,$0.4691
-Oasis Network,ROSE,$0.1016
-aelf,ELF,$0.2782
-Litentry,LIT,$8.25
-BitShares,BTS,$0.04928
-COTI,COTI,$0.2192
-Power Ledger,POWR,$0.3390
-WAX,WAXP,$0.09497
-Dent,DENT,$0.001596
-Wanchain,WAN,$0.8367
-Hifi Finance,MFT,$0.01389
-Wootrade,WOO,$0.3512
-MonaCoin,MONA,$2.00
-Celer Network,CELR,$0.02427
-CyberVein,CVT,$0.1228
-iExec RLC,RLC,$1.58
-PAX Gold,PAXG,"$1,728.83"
-ReddCoin,RDD,$0.004540
-Loom Network,LOOM,$0.1251
+Storj,STORJ,$0.6707
+Ark,ARK,$1.32
+Steem,STEEM,$0.4426
+WAX,WAXP,$0.1106
+district0x,DNT,$0.2675
+Stratis,STRAX,$1.23
+Kin,KIN,$0.0001043
+Vai,VAI,$0.9937
+OriginTrail,TRAC,$0.4497
+TomoChain,TOMO,$1.91
+Utrust,UTK,$0.3410
+COTI,COTI,$0.2257
+Oasis Network,ROSE,$0.09954
+aelf,ELF,$0.2718
+BitShares,BTS,$0.04932
+Litentry,LIT,$8.08
+Hifi Finance,MFT,$0.01440
+Dent,DENT,$0.001582
+Syntropy,NOIA,$0.4349
+Wanchain,WAN,$0.8273
+MonaCoin,MONA,$2.06
+Power Ledger,POWR,$0.3123
+CyberVein,CVT,$0.1235
+BORA,BORA,$0.1534
+iExec RLC,RLC,$1.61
+Wootrade,WOO,$0.3368
+ReddCoin,RDD,$0.004337
+Celer Network,CELR,$0.02335
+Loom Network,LOOM,$0.1274
+PAX Gold,PAXG,"$1,719.08"
+GateToken,GT,$1.54
 Gemini Dollar,GUSD,$1.00
-Hive,HIVE,$0.3010
-Unifi Protocol DAO,UNFI,$34.82
-Haven Protocol,XHV,$8.36
-Bytom,BTM,$0.08262
-JUST,JST,$0.05075
-Gas,GAS,$11.32
-Travala.com,AVA,$2.51
-Populous,PPT,$2.15
-GateToken,GT,$1.42
-Handshake,HNS,$0.3059
-LTO Network,LTO,$0.3909
-Aidos Kuneen,ADK,$4.23
-Uquid Coin,UQC,$10.49
-Akropolis,AKRO,$0.04013
-Phala Network,PHA,$0.6977
-xDai,STAKE,$24.32
+Hive,HIVE,$0.2979
+Haven Protocol,XHV,$8.46
+JUST,JST,$0.05161
+Travala.com,AVA,$2.49
+Unifi Protocol DAO,UNFI,$33.90
+Bytom,BTM,$0.08107
+Populous,PPT,$2.14
+Gas,GAS,$11.20
+Handshake,HNS,$0.3027
+Akropolis,AKRO,$0.03982
+Uquid Coin,UQC,$10.44
+LTO Network,LTO,$0.3800
+Huobi Pool Token,HPT,$0.01819
