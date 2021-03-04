@@ -19,6 +19,8 @@ CryptoScraper scrapes today's top 100 crypto coins data and return a list of all
 ```bash
 📂 crypto-scraper
 ├── README.md
+├── cryptocoinmarketcap.csv
+├── output.json
 ├── scraper.go
 └── scraper_test.go
 
