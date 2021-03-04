@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.jpg" height="400">
+  <img src="/logo.jpg" height="250">
 </p>
 
 # CryptoScraper
@@ -25,14 +25,21 @@ CryptoScraper scrapes today's top 100 crypto coins data and return a list of all
 ```
 
 ## Getting Started
+Run each command line-by-line to set up the project
+```bash
+$ git clone git@github.com:uyennguyen16900/crypto-scraper.git
+$ cd crypto-scraper
+$ git remote rm origin
+$ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/crypto-scraper.git
+```
+
 To execute the Go program, write ```go run``` followed by the name of the file.
 ```bash
 $ go run scraper.go
-
 ```
 To execute the test, run
 ```bash
-$ go test
+$ go tests
 ```
 To execute all benchmarks within the package, run
 ```bash
