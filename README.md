@@ -8,7 +8,7 @@
 
 CryptoScraper scrapes today's top 100 crypto coins data and return a list of all cryptocurrencies whose prices are below a given price in ascending order using Go and Colly. 
 
-<a href="https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD" target="_blank"><img src="https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD.svg" height=500/></a>
+[![asciicast](https://asciinema.org/a/vHQ33IFxA2IwFu9T93x1FrJzY.svg)](https://asciinema.org/a/vHQ33IFxA2IwFu9T93x1FrJzY)
 ### 📚 Table of Contents
 
 1. [Project Structure](#project-structure)
