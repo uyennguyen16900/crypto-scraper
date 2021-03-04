@@ -1,10 +1,12 @@
-# Cryptocurrency Scraper
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/uyennguyen16900/crypto-scraper)](https://goreportcard.com/report/github.com/uyennguyen16900/crypto-scraper)
-
 <p align="center">
   <img src="/logo.jpg" height="400">
 </p>
+
+# CryptoScraper
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/uyennguyen16900/crypto-scraper)](https://goreportcard.com/report/github.com/uyennguyen16900/crypto-scraper)
+
+CryptoScraper scrapes today's top 100 crypto coins data and return a list of all cryptocurrencies whose prices are below a given price in ascending order using Go and Colly. 
 
 ### 📚 Table of Contents
 
@@ -28,7 +30,11 @@ To execute the Go program, write ```go run``` followed by the name of the file.
 $ go run scraper.go
 
 ```
-
+To execute the test, run
+```bash
+$ go test
+```
+To execute all benchmarks within the package, run
 ```bash
 $ go test -bench=.
 ```
