@@ -8,7 +8,7 @@
 
 CryptoScraper scrapes today's top 100 crypto coins data and return a list of all cryptocurrencies whose prices are below a given price in ascending order using Go and Colly. 
 
-[![asciicast](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD)](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD)
+[![asciicast](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD.svg)](https://asciinema.org/a/JM3SjIr5nqGSDbJhFHjGglkhD)
 ### 📚 Table of Contents
 
 1. [Project Structure](#project-structure)
@@ -50,7 +50,7 @@ $ go test -bench=.
 ```
 
 ## Resources
-### 🔨Built With
+### Built With
 - [**Colly** - Docs](http://go-colly.org/docs/)
 - [**Go** - Docs](https://golang.org/doc/)
 
